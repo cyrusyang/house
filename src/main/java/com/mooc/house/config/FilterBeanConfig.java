@@ -1,5 +1,6 @@
-package com.mooc.house.filter;
+package com.mooc.house.config;
 
+import com.mooc.house.filter.LogFilter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
